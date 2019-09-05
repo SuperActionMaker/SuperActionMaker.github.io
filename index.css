@@ -1,0 +1,12 @@
+body {
+  color: blue;
+}
+.btn{
+  border: 2px solid rgb(0, 225, 255);
+  border-radius: 20px;
+  background-color: rgba(11, 182, 19, 0.692);
+  padding: 20px;
+  text-align: center;
+  color: rgb(255, 0, 191);
+  width: 150px;
+}
