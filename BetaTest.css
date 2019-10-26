@@ -1,0 +1,26 @@
+h1{
+    color: aqua;
+}
+.btn{
+    border: 2px solid rgb(0, 225, 255);
+    border-radius: 20px;
+    background-color: rgba(11, 182, 19, 0.692);
+    padding: 20px;
+    text-align: center;
+    color: rgb(255, 0, 191);
+    width: 150px;
+  }
+  .btn2{
+    border: 2px solid rgb(0, 225, 255);
+    border-radius: 20px;
+    background-color: rgba(3, 104, 8, 0.692);
+    padding: 20px;
+    text-align: center;
+    color: rgb(255, 0, 191);
+    width: 150px;
+  }
+  div {
+    padding: 20px;
+    background: #f3f70650;
+    border: 2px solid #8f8f8f8c;
+  }
