@@ -1,4 +1,9 @@
 {
-	"Games" : ["Test1","Test2","Test3","Test4"],
-	"WindowName" : "あいうえお"
+	"Games" : ["Worlds"],
+	"Versions" : [
+		{  //Version0.0.1
+			"ver" : 0.0.1
+		}
+	]
+	
 }
